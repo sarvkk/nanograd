@@ -1,0 +1,10 @@
+setup.py
+nanograd/__init__.py
+nanograd/engine.py
+nanograd/nn.py
+nanograd.egg-info/PKG-INFO
+nanograd.egg-info/SOURCES.txt
+nanograd.egg-info/dependency_links.txt
+nanograd.egg-info/requires.txt
+nanograd.egg-info/top_level.txt
+test/test_nanograd.py
